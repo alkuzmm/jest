@@ -1,0 +1,17 @@
+{
+  "name": "js_testing",
+  "version": "1.0.0",
+  "description": "Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
